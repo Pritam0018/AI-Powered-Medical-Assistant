@@ -1,0 +1,8 @@
+chromadb
+sentence_transformers
+langchain_groq
+speech_recognition
+PyAudio
+streamlit
+fastapi
+pydantic
